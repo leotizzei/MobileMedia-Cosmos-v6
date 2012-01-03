@@ -1,0 +1,6 @@
+MIDlet-Jar-URL: MobileMedia.jar
+MIDlet-Jar-Size: 1565941
+MIDlet-Name: MobileMedia
+MIDlet-Vendor: Trevor Young
+MIDlet-Version: 1.0.0
+MIDlet-1: MobileMedia, , br.unicamp.ic.sed.mobilemedia.main.impl.MainUIMidlet
